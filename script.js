@@ -13,10 +13,10 @@ const openModal = function () {
 
 const closeModal = function () {
   modal.classList.add('hidden');
-  modal.classList.add('.hidden');
+  overlay.classList.add('hidden');
 };
 
-for (let i = 0; i < btnsOpenModal.clientHeight; i++)
+for (let i = 0; i < btnsOpenModal.length; i++)
   btnsOpenModal[i].addEventListener('click', openModal);
 
 btnCloseModal.addEventListener('click', openModal);
