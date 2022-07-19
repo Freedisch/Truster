@@ -40,3 +40,13 @@ btnScrollTo.addEventListener('click', function (e) {
   //Scrolling  effect
   section1.scrollIntoView({ behavior: 'smooth' });
 });
+
+const h1 = document.querySelector({ behavior: 'smooth' });
+
+const alertH1 = function (e) {
+  alert('addEventListener: Great! You are reading the heading :D');
+};
+
+h1.addEventListener('mouseenter', alertH1);
+
+setTimeout(() => h1.removeEventListener('mouseenter', alertH1), 3000);
