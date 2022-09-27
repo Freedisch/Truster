@@ -9,6 +9,6 @@
 
 
 ## Improvement
-. Re-Build the backend with NodeJs and store data with mangodb
-. Adding a token based authentification
-. Building Unit-Test
+ #### Re-Build the backend with NodeJs and store data with mangodb
+ #### Adding a token based authentification
+ #### Building Unit-Test
