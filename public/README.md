@@ -1,7 +1,4 @@
-# KISTPAY
-## Enabling crypto transactions for your online business
+# WEBMAP
+## 
 
-
-![Kistpay](https://user-images.githubusercontent.com/82499435/178735232-84f0d790-3a90-4f93-a172-706cd3126c1d.png)
-
-
+![Webmap)](https://user-images.githubusercontent.com/82499435/192526959-b0f86a59-34ea-439f-bc25-b7e12cea5f65.png)
